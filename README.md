@@ -1,4 +1,14 @@
-# python_to_do-list
-this is my first task by @decodelabs internship
-<br>
-my name is komal , iam the auther
+# Python To-Do List
+
+A simple To-Do List project built using Python.
+
+## Features
+- Add tasks
+- View tasks
+- Store tasks in a list
+
+## Concepts Used
+- Lists
+- append()
+- for loops
+- User Input
